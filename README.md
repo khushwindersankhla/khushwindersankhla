@@ -16,6 +16,15 @@
 - ⚡ Fun fact: I turn coffee ☕ into clean code
 
 ---
+## 🤝 Connect With Me
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://willowy-tapioca-7da422.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/></a>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -90,15 +99,7 @@
 
 ---
 
-## 🤝 Connect With Me
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/></a>
-</p>
-
----
 
 ## 👀 Profile Visitors
 
